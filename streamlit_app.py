@@ -1,6 +1,7 @@
 import streamlit as st
 
-st.title("🎈 My new app")
+st.logo("")
+st.caption("МУНИЦИПАЛЬНЫЕ АВИАЛИНИИ")
 st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+    "Проект развития региональных воздушных перевозок с применением самолётов российского производства"
 )
